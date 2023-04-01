@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 from logging import handlers
-import sys
+import os
 
 
 from pathlib import Path
@@ -33,7 +33,8 @@ def create_parts(
     file_path = Path(file_path)
 
     # Create prompt
-    prompt = Prompt("prompt.txt")
+    script_path = Path(os.path.realpath(os.path.dirname(__file__)))
+    prompt = Prompt( script_path / "prompt.txt")
 
     document = Document.from_file(file_path)
 
