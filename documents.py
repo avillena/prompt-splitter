@@ -48,6 +48,8 @@ class Document(ABC):
 
             if current_part_words_count + paragraph_words_count > max_words:
                 parts.append(current_part)
+                current_part = ""
+                current_part_words_count = 0
             
             current_part += paragraph+"\n"
             current_part_words_count += paragraph_words_count

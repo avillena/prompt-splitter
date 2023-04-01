@@ -1,2 +1,4 @@
 
 *.pyc
+*.docx
+.vscode/launch.json
