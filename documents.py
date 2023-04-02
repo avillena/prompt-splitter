@@ -50,10 +50,14 @@ class Document(ABC):
                 parts.append(current_part)
                 current_part = ""
                 current_part_words_count = 0
+                continue
             
             current_part += paragraph+"\n"
             current_part_words_count += paragraph_words_count
         
+        if current_part:
+            parts.append(current_part)
+
         return parts
 
     @classmethod
