@@ -16,7 +16,8 @@ log = logging.getLogger(__name__)
 
 app = typer.Typer()
 
-DEFAULT_MAX_WORDS = 1000
+DEFAULT_MAX_WORDS = 3072
+
 
 @app.command()
 def create_parts(

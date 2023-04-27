@@ -1,0 +1,230 @@
+20230421 Previred - Gobierno con Esteban.mp4
+
+Esteban Segura: Izquierda. De izquierda a derecha. ¿Ok? Si. También. ¿Ya empezaste a grabar?
+
+LeanSight: Sí, sí, sí. Tengo que mejorar.
+
+Esteban Segura: Esto. Esto. De izquierda a derecha. Esto que está aquí son cada uno de los sistemas. Exactamente. Perfecto. Listo. No son requerimientos.
+
+LeanSight: No son requerimientos. Eso es lo que te quiero explicar. Estos son los sistemas que están dándole apoyo a la gestión de cobranza.
+
+Esteban Segura: Perfecta.
+
+LeanSight: Desde lo que ven. Esto es lo usan los usuarios y pone que el usuario dice mirá, acá está el bebé, está el operador y lo mismo hace adentro.
+
+Esteban Segura: Ya, ok.
+
+LeanSight: ¿Por qué? ¿Y ahora vamos a eso? Porque de alguna manera lo que está debajo de todo esto son los sistemas que tienen una combinación y eso falta. Tener la visión de que es un sistema. Es una combinación de aplicaciones de plataforma que son usadas por más de un sistema. Entonces aquí estoy poniendo simplemente sistema haber sistema, no entrar en muchos detalles. ¿Ahora, qué pasa si tú ves el tablero que construimos? ¿Dónde estaba Claudio? ¿Daniel Que la demanda en general no? Uno puede pensar que hay demanda interna y externa que independiente de la línea de negocio se apoya en esos sistemas.
+
+Esteban Segura: Perfecto. Ya. Entonces, de alguna manera, volviendo a nuestro objetivo, ordenar todo este tema de cocrear soluciones desde la demanda externa. Ahora es que estoy armando la plataforma en donde se afirman estas cosas.
+
+LeanSight: ¿Exactamente qué pasa con eso? Que de repente hay solicitudes de demanda de proyectos y cuando decimos solicitud de demanda interna, ustedes lo ven como proyectos o iniciativas y la externa normalmente. El tema es que al hacer esto ya nos empezamos a dar cuenta que a veces hay proyectos o demanda interna o externa que afectan al mismo tema. Entonces ahí surge un problema. ¿Qué pasa si esto cae? Y en particular, qué pasa si esto está pensado para un tipo de demanda y la otra está suponiendo.
+
+Esteban Segura: Que es alta.
+
+LeanSight: ¿Demanda? Y esto no está hecho para eso. Ahí hay un problema. Eso fue lo que surgió el miércoles con esta visión. Se empieza a entender de que hay cosas que. Y como estaban todos los actores de la mesa. Oye, pero espérate. Pero eso no está pensado para eso. No, pero esto no es alta demanda. Es más, cada vez que ustedes han hecho eso que corre un sistema, de esta forma se degradan todos los servicios. Puede ser. ¿Y por qué? Bueno, es que nadie estaba viendo esto ya.
+
+Esteban Segura: Ok.
+
+LeanSight: Es parte de lo que se ve con eso que nos falta. Y ahí vamos a distinguir que hay tipos de trabajo. Te vi por ahí que lo dejé como implícito está la ética, que también es demanda que fluye finalmente por todo el carril. Pero algo que no tenemos hoy día. Y yo traté de ejemplificar esto con colorcito. En principio los equipos tenemos equipos que están atendiendo algún sistema o algún alguna proyecto, iniciativa y lo ideal es que los equipos se vayan haciendo más séniors, o sea, vayan dominando más esa plataforma. Pero lo que ocurre normalmente es que terminan cambiándolos. Y no sólo un equipo completo, en realidad desintegran el equipo y el jefe proyecto se va de un lado al otro. A veces los desarrolladores, con lo cual se establece entonces una de.
+
+Esteban Segura: Las cosas que ni siquiera son los que se van a hacer a otro planeta, otra cosa distinta.
+
+LeanSight: Es exactamente con lo que quisiéramos estar. Estos tubitos, estos tubitos de alguna manera lo que quieren dar ejemplificación es que en realidad tiene que tener una capacidad para atender la plataforma donde los proyectos naturalmente no es a este cada vez para.
+
+Esteban Segura: Acá que vaya para allá.
+
+LeanSight: Y eso es lo que falta.
+
+Esteban Segura: Tengo. Tengo una. Me parece excelente, súper, súper bueno, porque eso también nos va mostrando por qué es dificultoso hacer una cosa versus otra y eso lo va mostrando. Pero hay un tema que no sé cuándo lo van a meter, que son las malvadas Lucas. Mmmmm. El el negocio de. No me acuerdo la cifra exacta, pero el negocio de de notificaciones nos da 100 palos mensuales. Por decir algo estoy inventando y el de recaudación nos da 1500. Entonces, aun cuando la cantidad de requerimientos sea la misma. No, no es lo mismo una cosa que otra, ya en términos de que y eso. Y ahí hay algo que tenemos que armar durante mucho tiempo sabiendo esto. Por eso te lo comento. Nosotros tuvimos cortado en dos el mundo de desarrollo. Una cosa era recaudación y estaba metido certificados y notificaciones, porque en general la mayoría de las notificaciones tenía que ver con recaudación y los certificados salen de los datos de recaudación. Entonces era un mundo. Y había otro mundo. Para los temas de abril. Ciro. Cobranza, giro y cobranza. Me falta uno. No voy a decir eso. ¿Por qué? Porque si lo miramos solo por plata. Recaudación y a funcionar como un obrero. Obviamente es mejor llevar todos los recursos, pero. Claro. Entonces pusimos un rayo láser entre medio para que no se pasaran para allá. Quizá fue un error. Liberamos eso. Pensando que por el tema de la metodología, que iba a ser bueno trabajar todos juntos, lo liberamos y ahora nos pasa que se nos cruza. Se cruzan cosas pa allá. Entonces. Cuando armemos el diseño de porque ahora estamos levantando, que proyectos son lo que hay que hacer con el lugar de trabajo, como eso no afecta lo otro. Entonces ahí vamos a decir ya entonces, pero necesitamos entonces estructura nos distintos para allá vamos.
+
+LeanSight: Vayamos. Si, si, ya, pero de hecho era así que aquí había un papelito verde respecto a SMH. También se levantó parte del tema y que es el tema de la discusión que teníamos el otro día contigo de Proyecto Flujo Permanente requieren equipos permanente, flujo emergente requieren equipo emergente. ¿Y entonces decíamos aquí hay tema de de qué se está evaluando cuando se ven los proyectos comercialmente y tiene que ver con incluyen también la operación? Seguramente sí, pero no la mantención. Entonces.
+
+Esteban Segura: ¿Y lo divertido es que quien entrega la materia prima para esa evaluación comercial? La gente que tiene que mantenerlo.
+
+LeanSight: Lo bueno es que eso es lo que estamos tratando de buscar con esto acá, efectivamente identificar cuáles son los tubitos que las líneas de líneas de desarrollo ok, que por estar, por estar separadas, no dejan de colaborar.
+
+Esteban Segura: Perfecto.
+
+LeanSight: ¿Voy entendiendo cómo trata el plan que está arriba, porque creo que la flechita para dónde vamos? Mira, si quisimos en la tarde, porque esto fue en la mañana, en la mañana fue levantar este mapa de plataforma que nos dice oye, este es nuestro territorio al fin y al cabo, cierto, ya no es el territorio que todo lo que es lo que se pide al final pasa por acá, por allá. ¿Y eso es innegable, cierto? Ahora a ver, ahí hay partes de la plataforma que deberían de predicarse porque en realidad ya no tienen, ya no tienen ciclovía, hay otras que tienen que potenciarse ya. Entonces hay gente que no levanta por sí solo, solo, solo va para complementar esa. Nos dimos cuenta de cosas que seguramente tú ya lo sabes, pero. Pero está repetido varias veces, temas que se empezaron a hacer nuevas versiones de algo que avanzaron un poco y dejaron la antigua versión de la nueva versión Viva. Y tienes hoy día varios de esos monolitos dando vuelta donde nunca, porque efectivamente se dijo no, ya estamos listos. Con esto nunca se generó el plan de salida de uno y del otro y se mantienen pedacitos de cosas y eso está repetido por varias áreas de negocio, líneas de negocio, etcétera Y eso genera obviamente que tú tengas que multiplicar la capacidad de mantención, entonces el bicho hay que mantenerlo si se mira cuál es el plan que tenemos. Así que échate un poquito más para atrás, por favor, para aquí. Mira, quiero mirar la la el el la la, la fecha grande. Primero que qué levantamos lo que levantamos. ¿Primera cosa es que existe una zona que era gris, que es que ahora la tratamos de hacer explícita, de que hay temas técnicos que pasan entre cobrar energía, que nadie se hacía dueño y entonces quién es quién? Al final termina de afectar la tasa de cobranza porque ella recibe las cosas de reclamaciones, dice. ¿Y qué se hace cargo esto? No había una demanda explícita. Ahora se está haciendo una demanda explícita. Te quiero. Te quiero poner el caso de SMH. Claro que sí.
+
+Esteban Segura: Te voy a interrumpir. Tengo una duda. ¿Yo me pasé ahora por el pasillo y me di cuenta de que si uno mira la, la, la, la Muralla Oriente, donde está? En la demanda interna. Sí. Menos mal que no hay que pintar porque está empapelado entero. Está lleno de requerimiento. Ya, pero. Pero para mí. Yo creo que falta algo. Que es que esa es la medida del Viejo Pascuero. No hemos acordado. Que todo eso se tiene que hacer. Si.
+
+LeanSight: Está muy bien. Justamente parte de lo que estamos conversando.
+
+Esteban Segura: Entonces. Entonces. En algún momento. No sé si la mitad de las cosas o 3/4 parte, o 1/4 o un 10%, no sé, de muchos de esos papelitos hay que sacarlo y decirlo. Esto queda en stand by.
+
+LeanSight: Ya.
+
+Speaker1: Esto no lo vamos a hacer porque. Porque hoy día medio los clientes, en este caso los internos, están subiendo por el chorro. Si están diciendo toda mi necesidad. Pero pueden vivir sin varias cosas de eso. Así como vivió harto tiempo sin muchas de esas, entonces hace falta una relevamiento ahí.
+
+Speaker2: Mirá, acá hay un tema que es muy importante y que es algo que tenemos que comenzar a masticar contigo porque tenemos que diseñarlo en conjunto, ya que tiene que ver al final cuál es el criterio que debiera primar de forma transversal a la compañía para decir si voy a inyectar más o menos recursos y voy a hacer algo más o menos. Y si tú piensas bien, en realidad uno tiene que estar sometido. ¿O sea, lo primero básico es lo contratado, no? ¿Cierto? O sea que tengo que. Tengo que honrar mi. Tengo que honrar mi promesa. Pero hay dos cosas que son que hay una segundo punto, que es la rentabilidad del servicio. Y el tercer punto de la experiencia de cliente. Cierto. Ya sometí sujeto a experiencia. Entonces acá el punto es que eso tiene que ser una mirada transversal y no tenemos que esa mirada transversal en este instante. Alguna vez quizás se tuvo. Yo me imagino que era una mirada transversal cuando era ya entonces, Entonces yo puedo inyectar más recursos que también los recursos porque no estoy afectando a Chile o porque tengo que inyectar acá, porque se está echando a perder la experiencia al cliente. Sí. Entonces ese mirada transversal claramente no está estructurada.
+
+Speaker1: Por el punto. El punto es que. A mí me encantaría. Voy a seguir. Me parece súper bien. Y me gusta el orden que dijiste. ¿Porque la experiencia del cliente tiene que estar sujeto a qué nicho de servicio estamos? Es decir, si me quiero alimentar. Yo no le puedo poner en McDonald la mesa del dragón ni la cantidad de meseros.
+
+Speaker2: Tiene que ser.
+
+Speaker1: Porque nos están alimentando. Sí, pero se están alimentando en cosas muy distintas.
+
+Speaker2: Sí, exactamente.
+
+Speaker1: Entonces, la experiencia de usuario del usuario. Va a querer que en el McDonald sea extraordinaria. Pero tiene que ser con los costos del.
+
+Speaker2: Mcdonald s cerca.
+
+Speaker1: Porque sino el McDonald quiebra.
+
+Speaker2: Exacto, Callahan.
+
+Speaker1: Entonces, por eso te digo que hoy día hay una media un poquito subida por el chorro. Y por eso te levanto el tema antes de haber puesto toda esa pantalla. Todo lo que queremos hacer. Y la justificación siempre es que así atendemos mejor al cliente. Sí, pero el cliente nos paga diez. Y si nosotros para hacer todo esto hacemos mil, vamos para acá. Entonces en esos diez menos nuestro margen que nos quedarán siete, esos siete, lo que nos tiene que costar esta vuelta.
+
+Speaker2: A eso nosotros, a eso no le voy a poner un de fantasía que pues lo podemos manejar, que se vistan ellos. O sea, el manager es el gerente del servicio y el gerente del servicio tiene una mirada transversal, la parte comercial, la parte operacional y la parte de una lógica. ¿Por qué? Porque este gallo tiene que ser el que cuadra. Oye, usted, dele no más de ese rollo lo porque eso no me afecta a mí. Mi negocio. Pero eso no está pasando porque lo tenemos todo disgregado y cada cual está peleando por su propio objetivo.
+
+Speaker1: Exactamente. Entonces eso pronto tenés que tirar un baldazo de eso.
+
+Speaker2: ¿No? Bueno, para eso es bien importante. ¿Entonces, qué es lo que hicimos acá el miércoles? Para que te quede claro. Primero, no todo lo que se pide. Hay una parte que se llama Por ordenar, que fue, que es el primer tablero del lado Oriente. Esa es la primera primera cartulina. Y dijimos. ¿Qué es lo más urgente que hay que atender ahora? Y se hizo una conversación que había un montón de gente, pero ese montón de gente quería que justamente aparezcan los tres, aparezca la parte comercial, la parte tecnológica y la parte operacional, y se priorizó algún tema donde hace sentido para los tres. ¿Que es eso? Eso se ha trabajado. ¿Por qué? Porque el esfuerzo es razonable y porque el costo. O sea, acá hay un balance entre esfuerzo y costo. ¿O sea, hay más esfuerzo y valor, cierto? Entonces ahí vi esa conversación. La verdad que en este instante la mejor forma de hacerlo es con conversación. Por cierto, para comenzar a crear los criterios que sé que yo entiendo que alguna vez Eduardo tenía estas reuniones una vez al mes, va a ser esto. Si eso claramente se perdió entre medio de pandemia, cambio. Eduardo No sé la revalorización. Sí.
+
+Speaker1: Sí. Y discutíamos en la mesa y todos decían No, yo no, no, J.
+
+Speaker2: Eso, eso justamente es lo que estamos comenzando a implantar ahora. Pero lo vamos a tener que hacer al principio, de forma bien periódica, porque adquirir un hábito ya. Entonces ahí la pregunta es al principio, obviamente se ve que mucha gente bueno, pero es que necesitamos que todo esto se alineen sobre este tema y después vamos a.
+
+Speaker1: Ver un problema. No sé, Lo que te quiero decir es que como hay. Tanta cosa también complica más el lago. Pero hay que. Hay que ponerse colorado una vez y decir así como lo estamos haciendo el para que esto funcione toda.
+
+Speaker2: Hay que sacarla. Pero bueno, eso es parte de la conversación. Pero todavía todavía nos falta verlos todos los tubos de las líneas de documentos de la Guía de Desarrollo. No tenemos claro quiénes son ni cuántos son. No sabemos cuál es la capacidad de trabajo, ni tampoco los códigos de botella. Qué es lo que tenemos que construir ahora. Entonces fíjate que lo que viene ahora, justamente después de estos dos puntos, se refiere a eso. Ya, claro.
+
+Speaker1: Entonces espérate un segundo. Entonces, de alguna forma lo que estamos viendo es que estoy armando el proceso. Está llamando la fábrica, por decirlo así.
+
+Speaker2: Estamos descubriendo la fábrica.
+
+Speaker1: Está ahí, descubriendo la fábrica. ¿La fábrica? ¿Va a ser así o así? Funciona así. Listo. Lo otro que me está faltando y que necesitamos, te lo quiero declarar para que lo tenga. Es que a esa fábrica tenemos que ponerle métricas.
+
+Speaker2: Si.
+
+Speaker1: Es decir, es. Ya no sé cuál es la más adecuada.
+
+Speaker2: La primera. La primera es la carga. La primera, que la carga es la cantidad de ítems por línea.
+
+Speaker1: La cantidad de ítems. ¿Cuántas son? La ítem salido. ¿Cuánto tiempo nos demoramos? Sí. Si cumplimos con los plazos que definimos, si los clientes les gustó o no les gustó ese tipo de cosas. Deberíamos ser las que pidiéramos.
+
+Speaker2: Sí. Sí. ¿Y eso? Eso te lo puedo presentar. Mira, teniendo la línea de desarrollo, lo primero que vamos a ver es la carga para ver dónde están. O sea, quién está atorado y, oye, de repente. Oye, tiene mucha gente, pero muchas manos. Entonces ordenemos. Hay. Sí, pero.
+
+Speaker1: Ya. Y en esta solo va a recordártelo. Quizá malamente. No, quizá malamente. Hoy día los dueños de este proceso son Martín y Lavalle. Entonces.
+
+Speaker2: Hay que decir de este proceso. ¿En qué sentido?
+
+Speaker1: ¿Eso de cocrear soluciones tecnológicas? ¿El que existe, el que está documentado, no es perfecto? Entonces lo que tenemos que ver es si este proceso. Y ahí sería bueno. Le voy a decir a la Maribel que que conversen contigo, que nuestra experta en procesos perfecto para que todo esto se convierta en el nuevo proceso de. Y a tener que ver quien debiera ser él o los dueños de este proceso perfecto. ¿Y cuáles son las métricas de este proceso perfecto?
+
+Speaker2: Y nosotros vamos a proponer un conjunto de métricas que son más o menos estándares. Claro, porque hay métricas de flujo.
+
+Speaker1: Porque una cosa distinta es cómo nos organizamos y la organización. Y voy a decir que no sé. Yo te propongo que tengas este gerente es el manager. Y vamos a ser igual que en esto. Vamos a definir un caminito y ya vamos a llegar para allá. Pero vamos a partir. Es cierto, pero, pero también tiene que estar en este. Tenemos que alinearnos a esta metodología de proceso porque es útil. Es bueno que lo hagamos así ya.
+
+Speaker2: Perfecto. Super. Yo la conté aquí. La veo como.
+
+Speaker1: Como la conocí a Maribel.
+
+Speaker2: Sí, Pues sí. Aquí tengo. Tengo su correo y todo. Ya, ya.
+
+Speaker1: Así que yo igual le voy a decir cosa. La que por los dos lados.
+
+Speaker2: Ya no falta otro detalle más. A ver, a ver. Sí, claro. Solamente quiero tocar el tema de se me hace en un minuto, nada más. Ya, pero me parece que lo puede mostrar en la caja de SMH que teníamos. Mira, en el caso de SMH ya a ver, uno de los temas que yo le había pedido encarecidamente a Martín de que por favor no hiciera ningún cambio de estructura mientras no tuviéramos información.
+
+Speaker1: Pero lo he hecho.
+
+Speaker2: Es que el compadre la verdad que te lo tengo que aclarar así ya, así que. Pero ya el asunto. El asunto es que. Smh. En realidad no es estructura interna. Estructura externa Tiene un prior que entiendo que se llama Advice. Le puedo dar ya y tenemos un montón de errores en SMH que se ha hecho todos los errores de apoyo al Giro casi todo el semestre, por no decir que no existen otros errores que no se me. ¿Entonces la pregunta es oye, y esto no hubiera internalizado en nosotros para primero tener más control? Entonces ahí apareció una conversación donde parece que no nos están tirando a nadie. ¿Por qué? ¿Porque por un lado, y cuántos desarrollo está financiado fuera de servicio? Me hice tres o cuatro ya y a mi me dijeron que era de medio. Entonces hay que sentarlos a conversar y que digan señores, cuánta gente necesitamos. Y comencé a internalizar el servicio, porque no podemos depender del único al que le queda perfecto. Si. Ni pongas. De acuerdo.
+
+Speaker1: Yo estoy de acuerdo. Dime cómo hacemos esa conversación. Si quieres que participe, yo. A mí a veces me en estas cosas. No sé si quieres que yo me meta.
+
+Speaker2: No acá. Acá. De hecho, si quieres, te lo mando. Después. ¿Cuáles son las teorías concretas para ti? Te lo voy a mandar a uno por ahí. Pero esto es una vía concreta para ti. O sea, júntense y definan. Yo, de hecho, no tengo mucho más que hacer al respecto. Tampoco son ellos lo que tiene que tener la información.
+
+Speaker1: Perfecto.
+
+Speaker2: O sea, acá. ¿Cuál es el punto que estamos diciendo? No tomemos, no, no tomemos decisiones sin información. Pero cuando la información la tomamos, las decisiones.
+
+Speaker1: Ya, pero entonces necesito que me pase la información del CNH para que podamos tomar la decisión.
+
+Speaker2: Te lo voy a mandar. El recorrido te lo voy a mandar en un un grifo de. ¿Cuál es el problema que hay que resolver ya?
+
+Speaker1: Buenísimo.
+
+Speaker2: Si ya vamos a último al proyecto de deudores de alimentos.
+
+Speaker1: Que no parte.
+
+Speaker2: O sea, te cuento un poco porque la semana pasada hicimos una reunión más intensa. Esta semana fue muy cortita, fue de una hora donde lo que hicimos fue aclararles lo que hablamos la semana pasada. ¿Quién estaba? Estaba Tesa, está Claudio, No estaba Daniela, que era la pregunta de ayer, está Martín, estaba Pablo que por favor que estuviera Pablo. Es necesario que el arquitecto esté ya que va a estar. Y había unas personas de coach del proyecto y ahí, ahí me perdí un poco al lado de quiénes más estaban. Estaban en la foto que sacamos de la cantidad de la gente que estaba en la mesa, pero ahí, ahí tenemos que levantarla. ¿Ya estaba Rodolfo también acá, cuál fue? Yo te puedo contar lo que parece la pizarra para explicarte un poco lo que hice, la pizarra. Todo esto a partir de una evaluación que estoy realizado. Pone la misma razón la pizarra, el centro. Ya. Si te fijas arriba de la pizarra, es el 12,5. Y le dije No estamos poniendo la soga al cuello nosotros mismos porque no puede decir que sean 12,5 semanas previas a Asuma la responsabilidad de que todo el sistema ande porque no depende de nosotros. Es más, tanto no depende de nosotros que hasta las AFP decidieron que ellos iban a gestionar. Ellos iban a diseñar el protocolo de comunicación y privilegio fuera de la mesa. Ya está observando nomás te ha invitado como.
+
+Speaker1: Con uno más.
+
+Speaker2: Como uno más. Ni siquiera como uno más. Porque en realidad que piensa que tiene que implementar el mismo rol. Entonces dije acá cuando tú haces una evaluación, tú evalúas lo que tú puedes hacer de forma autónoma y tú no, y tú y tú no pone, o sea, y el resto le dice esto es lo que usted debiera hacer según mi recomendación, pero yo no puedo comprometer el plazo ahí. Ya. Y sin embargo.
+
+Speaker1: Pero yo me supongo que las 12,5. Lo que está comprometido es lo que tenemos que hacer nosotros. No, lo.
+
+Speaker2: De ellos no está incluido. Están incluido de ellos. La dieta incluyó que en una semana se integrarán toda la FP y que en una semana ellos diseñarán el protocolo completo. ¿Y cómo te voy a estar comprometiendo eso si tú no tienes ningún control sobre ellos? Entonces sígueme. ¿Nosotros sabes cuándo vamos a aprender esto? ¿Se acuerda cuál fue el plan que ya levantamos? Ya bajo un poquito. ¿Vale? Primero los siete días. Siete días para levantar el diseño son una locura. Ya llevan conversando tres semanas y te aseguro que no demorar dos meses lo quiere poner de acuerdo. Ellos tienen que ponerse de acuerdo. Nosotros podemos comenzar a implementar la plataforma en el momento de que ellos tengan el. Cuando hablan de contrato, está hablando de cómo se va a hacer el protocolo. Dice Qué maravilla de documento es y cómo se envía y cómo se. Y si hay problema como, o sea, cómo se maneja un error toda esa cuestión. Si el camino feliz es súper fácil de dibujar, el difícil es el otro. Cuando hay errores ya. Entonces eligio Señores, para. Para los siete días. Usted no son siete días. Es posible que usted diga que son siete días porque usted lo que está haciendo es poniéndose la soga al cuello porque comienza a ser responsable. Que estos sean siete días y es imposible. Nosotros no tenemos control de eso. ¿Cierto? Lo que yo puedo hacer es dígale. Sigan este plan, haga esto, haga esto otro. Pero si usted no me hace caso, no es problema mío.
+
+Speaker1: Ya una pregunta, pero espérate. Pero todo está. Pero toda esta etapa de levantamiento. De alguna forma en el lo malo lo hemos logrado. Es decir, no solo no estamos, no, no hemos partido, es decir, las AFP no hemos partido, pero hemos estado haciendo todas estas reuniones de que se ha ido levantándose de alguna forma toda esta pega previa. Aunque aparezca en esas 12,5 una semana hay una semana. Que comilla estamos haciendo ante. E a hacer peso, pero. Pero eso sí lo hacemos bien. Nos va a ayudar para que de aquí para adelante usemos las 12,5.
+
+Speaker2: Semanas si es que hay un tema importante. O sea, voy a decir que las 12,5 semanas. Primero voy a sacarla de la boca, pero lo he hecho mal. Cambio. Fue un poquito irónico porque no son 12,45, porque si me.
+
+Speaker1: Acuerdo, estoy de acuerdo.
+
+Speaker2: Ya dije mira, lo que yo puedo comprometer es lo que está entre puntitos rojos en el medio. Sospecha de lo que está entre línea punteada roja es lo que yo puedo comprometer, lo que yo voy a hacer adentro. ¿Y cuáles son las interfaces que hay disponibles afuera? Una vez que tú me das el diseño, eso es lo que yo puedo comprometer el tiempo de desarrollo. Y además vamos a hacer dos fases, una fase que llamamos laboratorio interno. El abordaje interno es probar que eso funciona adentro y después viene otro laboratorio externo, que es con la gente de color, con las FJ y por lo menos con FP para ver que funciona. Y después el otro se pone a la cola para ir integrándose.
+
+Speaker1: Perfecto.
+
+Speaker2: Eso fue el plan que se comunicó ayer y que estaba.
+
+Speaker1: Claro, pero era un plan que como te vuelvo a decir, las FP no nos han dicho todavía que nos contratan el servicio. Por lo tanto, esto es puro preparatoria.
+
+Speaker2: ¿Esto está orientado a que la propuesta para mejorar la propuesta por qué? Porque se había hecho una propuesta que venía con la famosa de 12,5 semanas donde se estaba poniendo la soga al cuello. ¿Cierto? Entonces, digo, no era la propuesta nueva. Es que el alcance cambió porque ya cambió desde la que se hizo la primera propuesta. Y ahí Rodrigo está levantando una propuesta nueva, que tiene este plan más claro. Y además dice yo le hice notar que Rodrigo.
+
+Speaker1: Rodrigo, Martín.
+
+Speaker2: Y Martín Martín, si hay algún cambio o en el alcance o alguno de los supuestos que nosotros decimos, no se cumple. Yo voy a declarar un control de cambio y ese control de cambio implica que voy, voy a tener que evaluarlo y cambiar el plan. Y eso va a estar en la propuesta. Ya se está integrando.
+
+Speaker1: Material que es súper bueno. ¿Por qué? Porque. Porque hoy día, porque vimos que esto que se está dando es súper bueno, porque nos ayuda primero a fortalecer de que el proceso empieza antes. Y cuáles eran los errores que de antes de que se empezara a meter mano metíamos que nos afectaban después cuando metemos mano.
+
+Speaker2: Eso estaba tratando de hacer bien. Tal cual. Y lo otro importante también, y también la gestión de cambio, que algo que vivimos también en otro proyecto y que vimos cómo lo estaban tratando de plantear desde acá. Al principio esto de decir no basta con decir si hay cambio de alcance. Tiene un valor adicional. No hay que presentar el proceso de gestión del cambio en la propuesta, porque es que no el que el que te pide dice bueno, ya voy a pagar más, háganlo mañana. Esto se parece, pero no alcanza. Mañana hay que evaluar si eso no es lo que va a pasar en la propuesta del cambio y cuando se den cuenta el tema. Esto implica que el sábado en la noche, a las 00:00 de la noche van a llamar a Héctor. Porque es porque no hay, porque no encamino. Entonces voy a agarrar el camino que más me acomoda, que está.
+
+Speaker1: Perfecto.
+
+Speaker2: Ya. Entonces acá, acá hay otro tema que también quiero levantar y que aquí tenemos que tener mucho cuidado, que es el último punto que estamos tocando. Mira a ver, este proyecto tiene un riesgo de riesgo, riesgo tecnológico, que es tener una plataforma de alta disponibilidad, que es el Open chief o se ve. Dame la llave ya. Y el problema es que Chile no lo ocupa solamente, no lo ocuparía solamente este sistema lo ocupan un montón de otras plataformas. Entonces yo le pregunté a Pablo Por eso invite a Pablo y Pablo que estaba levantando. También lo invité a saco para que también viera cómo se fue a y lo puede aportar un poco su mirada. ¿Diga? Oye, Pablo. ¿Cuánto debo sentir? 200 transacciones por segundo. Sí, pero eso era en periodo cuando no cuando los estoy cargando. No en pelotas. Perfecto. Ok. Ya. Oye. ¿Y cuánto de ganado vamos a tener disponible para este proyecto? Entonces porque dijimos que uno de los datos que teníamos como incertidumbre era la concordancia y dije oye, y sabemos que íbamos a tener 20 transacciones disponibles en el PIC, a que nosotros evaluamos el promedio. Me dijo Martín, no voy a hablar, tener que hablar el pick. Entonces tienes que tener dimensionado para el peor caso. No, no, no, no, no! Por ejemplo, hay un tema particular que creo que hay un problema.
+
+Speaker1: Si. Entonces.
+
+Speaker2: Ya que es súper importante. Ahí tenemos ciertas opiniones técnicas que no están fluyendo barreras. Yo digo, después de haber conversado entre Paulo ha levantado la bandera roja varias veces y nos está canalizando en. Pero y la verdad que hay que escucharlo a tomar, o sea, porque se están levantando. Esto hay que hacerlo bien. No sé por qué diablos esto no fluye por otro lado. ¿Entonces la pregunta es por qué la persona que debería canalizar eso no lo está canalizando? ¿Y qué es lo que te comentábamos antes respecto a que por ejemplo, esto ya se hizo algo similar con lo del 10%, te acuerdas?
+
+Speaker1: Sí.
+
+Speaker2: ¿Y para operaciones antes ahí dice no, pues esto ya lo habíamos hecho siempre, pero y le preguntaba Pablo, eso degradó el servicio? Si afectó al resto, a todo el resto. Entonces hizo eso con Palito, pero nadie, pero nadie declaró ni levantó el.
+
+Speaker1: Tema de cuáles.
+
+Speaker2: Eran los servicios que se iban a heredar, puesto que está basada. Entonces yo lo voy a aclarar de otra forma. Pablo lo levantó con su equipo, pero no se canalizó.
+
+Speaker1: No es que además mira, mira la tontera en este caso y peor en el tiempo de la pandemia. Están tan urgidos. Que nosotros podemos armar una infraestructura especial para esto. Y cubrirla. Pero solo cobramos el desarrollo.
+
+Speaker2: Y no la mantención.
+
+Speaker1: Y siquiera la mantención.
+
+Speaker2: Sí, pero claro. De ahí viene los alineamientos de punta a cabo. Por ejemplo, lo que te decía yo acá lo dos, las tres áreas tienen pecado. Si esa de ahí tiene, tiene pecado. Tiene una mirada tremendamente ingenua. Y además, otra cosa también yo insisto que la variable técnica tenemos una debilidad técnica porque a los expertos técnicos no se les está escuchando y se canaliza cualquier cosa en el respecto. Por otro lado, tenemos que en el caso de operaciones y Operaciones asume que tiene que asumir toda la responsabilidad a los clientes, que me parece súper bien desde una perspectiva, desde la perspectiva de atender bien al cliente. Pero me parece mal desde la perspectiva de que estás siendo muy paternalista y no está viendo que estás haciendo que el otro haga la pega que tiene que hacer. Sí. O sea, no puedes tirarte las balas para reprender, para decir que la FP lo van a hacer todo. No, si uno tiene que ordenarlo y decir esto se hace así o la cosa no resulta. ¿Y el tercer nivel de comercial de que cuando se establece los parámetros de rentabilidad del servicio, quién tiene que verificar eso? Hay que tener una mirada transversal. Y además, otra cosa que para la gestión de riesgo tampoco vive una reflexión de los impactos que tienen las propuestas comerciales. Y eso es responsabilidad de comercial, no responsabilidad ni operación de nadie, y que tiene que aportar la información. Pero eso tiene que estar monitoreando si es cuestión de rentable o no, pues. Qué tanto sé qué me pasa. Por eso te decía que esta mirada separada en tres, a mí ya me está diciendo que todo es una mala señal. No, no podemos seguir así, porque sé que al final nadie se hace responsable de la rentabilidad y la rentabilidad de punta a cabo. Estoy. Porque no es porque yo hice la propuesta. Entonces ustedes se arreglan después.
+
+Speaker1: No sé si lo bueno es que igual voy a ganar.
+
+Speaker2: Como que mira que bueno, es verdad, pero lo bueno es que claramente podemos ganar mucho. ¿O sea, esta empresa puede ser mucho más rentable y mucho ojo, pero también la rentabilidad a qué costo? Porque también hay un acostumbramiento, hay que acostumbramiento, que al final todo se resuelve con sangre, literalmente con sangre, y entonces no es lo que nosotros queremos tener. ¿Son equipos que se desarrollen, que mejoren, cachái? Y para eso tenés que tener el ancho de banda cerebral para aprender, Pues está todo el día chapoteando. No lo voy a hacer. Hay una cuestión de sanidad. O sea, yo creo que sí gana plata, pero la salud no está bien.
+
+Speaker1: Perfecto.
+
+Speaker2: Si eso te.
+
+Speaker1: Bien. Buenísimo.
+
+Speaker2: Ya, bueno. Y te debo el resumen escrito de los compromisos.
+
+Speaker1: Oye. Ahora sólo temas de plazo. Estas cosas de la organización, de la métrica o del proceso, debiéramos estar viendo que en un mes más, en dos semanas más, en tres semanas.
+
+Speaker2: Lo que te mostrara la flechita, lo que viene para la próxima semana es tratar de levantar las líneas de desarrollo y entonces, levantando el desarrollo, nosotros ya podríamos tener la primera métrica que es la carga, que es cuánta, cuántas pega hay por línea. Eso debería comenzar a visualizarse la próxima semana y probablemente más maduro ya. Ok, entonces es la primera base, porque de ahí decimos y cuantas menos tenemos también y esas menos también cuantas cabezas tenemos, porque no basta. No puedo poner a la señora de la esquina a arreglar recaudaciones, no, creo que es una política que se estaba haciendo de comenzar a mover gente de un lado al otro y destrozando el juego interno perfecto. Así que por lo menos a nivel de alcance, piensa que nuestro objetivo ahora es tener comenzar a ver las verdaderas líneas de desarrollo que tenemos. La verdadera Nora no la dibuja en papel.
+
+Speaker1: Perfecto. Ok, Muy bien. Muchas gracias.
+
+Speaker2: No! Chao. Chao. Chao. Chao. Muy bien. Creo que le quedó clarísimo.
+
