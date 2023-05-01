@@ -1,11 +1,8 @@
 import logging
-from logging.handlers import RotatingFileHandler
 from logging import handlers
 import os
-
-
 from pathlib import Path
-import typer
+import argparse
 
 from documents import Document
 from output_writer import OutputWriter
@@ -13,21 +10,9 @@ from prompt import Prompt
 
 log = logging.getLogger(__name__)
 
+DEFAULT_MAX_WORDS = 2046
 
-app = typer.Typer()
-
-DEFAULT_MAX_WORDS = 3072
-
-
-@app.command()
-def create_parts(
-    file_path: str = typer.Argument(
-        ..., help="Path to the file to split into parts"
-    ),
-    max_words: int = typer.Option(
-        DEFAULT_MAX_WORDS, help="Maximum number of words per part", show_default=True
-    ),
-):
+def create_parts(file_path, max_words):
     """Create parts of a file with a maximum number of words."""
     log.info(f"Starting process for file: {file_path}")
 
@@ -49,7 +34,12 @@ def create_parts(
 
     log.info(f"Parts created in file: {output_file}")
 
-
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('file_path', type=str, help="Path to the file to split into parts")
+    parser.add_argument('--max-words', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
+    args = parser.parse_args()
+
     logging.basicConfig(level=logging.INFO)
-    app() 
+    create_parts(args.file_path, args.max_words)
+
