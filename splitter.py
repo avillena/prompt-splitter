@@ -11,8 +11,9 @@ from prompt import Prompt
 log = logging.getLogger(__name__)
 
 DEFAULT_MAX_WORDS = 2046
+DEFAULT_PROMPT_FILE = "prompt.txt"
 
-def create_parts(file_path, max_words):
+def create_parts(file_path, max_words, prompt_file):
     """Create parts of a file with a maximum number of words."""
     log.info(f"Starting process for file: {file_path}")
 
@@ -20,7 +21,7 @@ def create_parts(file_path, max_words):
 
     # Create prompt
     script_path = Path(os.path.realpath(os.path.dirname(__file__)))
-    prompt = Prompt( script_path / "prompt.txt")
+    prompt = Prompt(script_path / prompt_file)
 
     document = Document.from_file(file_path)
 
@@ -37,9 +38,9 @@ def create_parts(file_path, max_words):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('file_path', type=str, help="Path to the file to split into parts")
-    parser.add_argument('--max-words', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
+    parser.add_argument('-m','--max-words', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
+    parser.add_argument('-p','--prompt-file', type=str, default=DEFAULT_PROMPT_FILE, help="Name of the file to use as prompt")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO)
-    create_parts(args.file_path, args.max_words)
-
+    create_parts(args.file_path, args.max_words, args.prompt_file)
