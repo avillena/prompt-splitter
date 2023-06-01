@@ -66,33 +66,65 @@ class Document(ABC):
     def __str__(self):
         return self.text
     
-    def split_into_parts(self, max_words: int) -> List[str]:
+    def split_into_parts_forcing_paragraphs(self, max_tokens: int) -> List[str]:
         paragraphs = get_paragraphs(self.text)
 
         parts = []
         current_part = ""
-        current_part_words_count = 0
+        current_part_token_count = 0
         for paragraph in paragraphs: 
 
-            paragraph_words_count = num_tokens_from_messages( [{"role": "system",
+            paragraph_token_count = num_tokens_from_messages( [{"role": "system",
                                                                "content":paragraph}])
 
-            if paragraph_words_count > max_words:
-                raise ValueError("Párrafos más largos que el maximo permitido")
+            if paragraph_token_count > max_tokens:
+                raise ValueError("Párrafo con cantidad de tokens mayor que el maximo indicado")
 
-            if current_part_words_count + paragraph_words_count > max_words:
+            if current_part_token_count + paragraph_token_count > max_tokens:
                 parts.append(current_part)
                 current_part = ""
-                current_part_words_count = 0
+                current_part_token_count = 0
                 continue
             
             current_part += paragraph+"\n"
-            current_part_words_count += paragraph_words_count
+            current_part_token_count += paragraph_token_count
         
         if current_part:
             parts.append(current_part)
 
         return parts
+
+    def split_into_parts(self, max_tokens: int, force_paragraphs = False) -> List[str]:
+        if force_paragraphs:
+            return self.split_into_parts_forcing_paragraphs(max_tokens)
+        
+        words = self.text.split()
+        parts = []
+        current_part = ""
+        current_part_token_count = 0
+
+        for word in words:
+            word_token_count = num_tokens_from_messages( [{"role": "system",
+                                                               "content":word}])
+            if word_token_count > max_tokens:
+                raise ValueError("Palabra con cantidad de tokens mayor  que el maximo indicado")
+            
+            if current_part_token_count + word_token_count > max_tokens:
+                parts.append(current_part)
+                current_part = ""
+                current_part_token_count = 0
+                continue
+            
+            current_part += word+" "
+            current_part_token_count += word_token_count
+        
+        if current_part:
+            parts.append(current_part)
+
+        return parts
+    
+
+
 
     @classmethod
     def from_file(cls, file_path: Union[str, Path]) -> "Document":

@@ -13,20 +13,23 @@ log = logging.getLogger(__name__)
 DEFAULT_MAX_WORDS = 2046
 DEFAULT_PROMPT_FILE = "prompt.txt"
 
-def create_parts(file_path, max_words, prompt_file):
+def create_parts(file_path, max_tokens, force_paragraphs = False, prompt_filename = ""):
     """Create parts of a file with a maximum number of words."""
     log.info(f"Starting process for file: {file_path}")
 
     file_path = Path(file_path)
 
     # Create prompt
-    script_path = Path(os.path.realpath(os.path.dirname(__file__)))
-    prompt = Prompt(script_path / prompt_file)
+    if not prompt_filename:
+        script_path = Path(os.path.realpath(os.path.dirname(__file__)))
+        prompt = Prompt( script_path / "prompt.txt")
+    else:
+        prompt = Prompt( prompt_filename )
 
     document = Document.from_file(file_path)
 
     # Split document into parts
-    parts = document.split_into_parts(max_words)
+    parts = document.split_into_parts(max_tokens, force_paragraphs)
 
     # Create output file
     output_file = file_path.parent / Path(file_path.stem + "_parts.txt")
@@ -38,9 +41,12 @@ def create_parts(file_path, max_words, prompt_file):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('file_path', type=str, help="Path to the file to split into parts")
-    parser.add_argument('-m','--max-words', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
-    parser.add_argument('-p','--prompt-file', type=str, default=DEFAULT_PROMPT_FILE, help="Name of the file to use as prompt")
+    parser.add_argument('--max-tokens', '-mw', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
+    parser.add_argument('--force-paragraphs','-fp', action='store_true', help="Force splitting at paragraph boundaries")
+    parser.add_argument('--prompt', '-p', type=str, help="Path to the prompt file")
+
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO)
-    create_parts(args.file_path, args.max_words, args.prompt_file)
+    create_parts(args.file_path, args.max_tokens, args.force_paragraphs, args.prompt)
+

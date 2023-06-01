@@ -1,0 +1,3 @@
+@echo off
+set OPENAI_API_KEY=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
+echo %OPENAI_API_KEY%
