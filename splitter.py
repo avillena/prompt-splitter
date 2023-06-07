@@ -41,7 +41,7 @@ def create_parts(file_path, max_tokens, force_paragraphs = False, prompt_filenam
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('file_path', type=str, help="Path to the file to split into parts")
-    parser.add_argument('--max-tokens', '-mw', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
+    parser.add_argument('--max-tokens', '-mt', type=int, default=DEFAULT_MAX_WORDS, help="Maximum number of words per part")
     parser.add_argument('--force-paragraphs','-fp', action='store_true', help="Force splitting at paragraph boundaries")
     parser.add_argument('--prompt', '-p', type=str, help="Path to the prompt file")
 
